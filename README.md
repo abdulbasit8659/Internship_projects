@@ -1,2 +1,2 @@
-# Internship_projects
+# Internship_project
 go to master file
